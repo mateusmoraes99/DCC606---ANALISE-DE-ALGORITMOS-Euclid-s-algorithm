@@ -1,3 +1,6 @@
+// Mateus Moraes de Moura 2019027100
+//Leonardo Carvalho de Matos Silva 2019037591
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>  // Inclui a biblioteca para medir o tempo de execução
