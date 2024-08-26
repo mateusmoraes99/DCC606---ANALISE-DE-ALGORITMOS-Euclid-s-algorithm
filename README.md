@@ -66,10 +66,10 @@ Execução
 Para compilar e executar o código, siga os seguintes passos:
 
 ## Compilar
-    gcc -o mdc_algorithms mdc_algorithms.c
+    gcc -o algoritmoCompletoTerminal algoritmoCompletoTerminal.c
 
 ## Executar
-    ./mdc_algorithms
+    ./algoritmoCompletoTerminal
 
 O programa exibirá o tempo médio de execução de cada algoritmo para os pares de valores fornecidos.
 ### obs 
