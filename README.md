@@ -72,3 +72,16 @@ Para compilar e executar o código, siga os seguintes passos:
     ./mdc_algorithms
 
 O programa exibirá o tempo médio de execução de cada algoritmo para os pares de valores fornecidos.
+### obs 
+para funcinnalidade do arquivo algoritmoMelhorado.c necessario intalação da sequinte biblioteca no terminal linux.
+     
+            sudo apt-get update
+            sudo apt-get install libgmp-dev
+ Para instalar e usar GMP no Windows, o processo é um pouco diferente:
+ Use o MinGW-w64 ou MSYS2:
+ Se você estiver usando o MinGW-w64 ou MSYS2, pode instalar a GMP através do pacman.
+ Instale o MSYS2 a partir do site oficial.
+ Abra o terminal MSYS2 e execute:
+
+
+    pacman -S mingw-w64-x86_64-gmp           
